@@ -10,6 +10,7 @@ Here are some examples:
 DATNIGHTS.BIN
 ![Nights' Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATNIGHTS_BIN.PNG)
 There are multiple models layered on top of each other. It is easiest to make out NiGHTS hat at the top and left of the image.
+I have found an offset of 0x2910 and a count of 7890 gives the cleanest reading
 
 DATWIZE.BIN
 ![Wizeman's Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATWIZE.PNG)
