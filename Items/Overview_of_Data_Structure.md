@@ -7,10 +7,10 @@ Their is also a corrosponding enemy normal list that follows after the item list
 ![Item List](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/itemListExample.PNG)
 
 
-#### Data Structure
+## Data Structure
 
 I have identified and been able translate the structure as follows using the below image.
-![Item Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/exampleItemDecomposed.PNG)
+![Item Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/itemExample_LI.PNG)
 
 ##### Yellow: Header
 ##### Red: Incremental Bit
@@ -19,11 +19,11 @@ I have identified and been able translate the structure as follows using the bel
 ##### Lime: Item Catagory?
 ##### Fuscia: Item Name
 
-## Header
+### Header
 
 All items must start with the byte "04 00 00 00" before the word "item" to denote it is an item.
 
-## Incremental Bit
+### Incremental Bit
 
 While I can't tell what this does exactly, it appears to be a counter. It appears to be increasing by hex instead of the character you will notice the pattern starts as:
 - 01 .
@@ -47,9 +47,9 @@ While I can't tell what this does exactly, it appears to be a counter. It appear
 
 You will notice that every now and then the pattern breaks and increments by 0A -> 0B -> ect. I don't know why it does this.
 
-## Item Catagory
+### Item Catagory
 
-This bit appears to be consistent across all instances of an item and quite a few items share the number. I have compiled a list of most of the items below:
+This bit appears to be consistent across all instances of an item, and quite a few items share their number. I have compiled a list of most of the items below:
 
 #### Catagories
 
@@ -95,6 +95,9 @@ This bit appears to be consistent across all instances of an item and quite a fe
 0C </br>
 - windv_delete </br>
 
+### Item Name
+
+Each item instance must have a name, but the name can be changed to anything that fits the space. The game is unaffected even when the name is changed.
 
 # Enemy Normal
 
