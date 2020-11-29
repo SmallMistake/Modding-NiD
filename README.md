@@ -7,6 +7,9 @@ Contains information that relates to how items, objects and enemies are spawned 
 ### Models
 Contains information on where models are stored and how to extract them
 
+### Music
+Contains information about audio files and describes how to play them
+
 ### Route Data
 Contains information on how routes are handled
 
