@@ -17,4 +17,6 @@ Empty Route Group from a boss level with only this route.
 
 ![Group 1](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeGroup1Stage1_LI.jpg)
 
+Group counter starts at 0.
+
 The other parts that look like patterns do not hold after a while.
