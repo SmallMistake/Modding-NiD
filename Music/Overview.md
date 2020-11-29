@@ -45,4 +45,5 @@ Deleting a characters file like "nights.adx" does not seem to stop the corrospon
 #Massive Thing to Look into Later 
 
 ".sfd" files reference using a "SofdecStream" to play audio. 
+
 Referenced here: https://github.com/Hengle/VGMToolbox-1/blob/master/format/VGMToolbox/format/SofdecStream.cs
