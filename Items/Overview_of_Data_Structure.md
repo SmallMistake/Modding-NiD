@@ -2,7 +2,7 @@
 
 Items appear to be stored in "stage_" + # + "SDF.BIN" files in the afs folder.
 They appear in a list usually below the stage info at the top of the page as shown below.
-Their is also a corrosponding enemy normal list that follows after the item list. That will be discussed after the item list.
+There is also a corrosponding enemy normal list that follows after the item list. That will be discussed after the item list.
 
 ![Item List](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/itemListExample.PNG)
 
