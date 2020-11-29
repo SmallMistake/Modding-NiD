@@ -14,3 +14,20 @@ There are multiple models layered on top of each other. It is easiest to make ou
 DATWIZE.BIN
 ![Wizeman's Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATWIZE.PNG)
 Wizeman's hands are the easiest point of reference because they show up distinctly in the front of everything else.
+
+
+### Levels
+
+ Levels appear to be broken up into chunks in one file and then put together based off of data from another.
+ Files with the name schema "PNODM_ST" + Stage Number + "_PIA_GRDPS2.BIN" appear to hold the data for the level pieces.
+ Files with the name schema "TNODM_ST" + Stage Number + "_PIA_GRDPS2.BIN" appear to be used with the previous file to create finished levels
+ 
+Example:
+
+Level 3
+
+PNODM_ST03_PIA_GRDPS2.BIN
+![Level 3 Parts](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/PNODM_ST03_PIA_GRDPS2.PNG)
+
+TNODM_ST03_PIA_GRDPS2.BIN
+![Level 3 Something](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/TNODM_ST03_PIA_GRDPS2.PNG)
