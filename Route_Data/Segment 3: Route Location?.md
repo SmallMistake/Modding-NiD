@@ -21,4 +21,4 @@ Level one has a slightly different reaction.
 Ellie will start like normal but, NiGHTS will not be in their palace. Going into the palace will start you as NiGHTS in the middle of nowhere as shown above.
 
 ![Level 1 TP Point](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/levelOneTPPoint.png) </br>
-Going left or right for a small bit will TP you back to the track and every thing will be normal. However, going back into the area that holds the palace will TP you back into the middle of nowhere. You can not move on to the next mare because you can not put the idia into the palace. Obviously, the only conclusion that drawn is that Ben is haunting my game.
+Going left or right for a small bit will TP you back to the track and every thing will be normal. However, going back into the area that holds the palace will TP you back into the middle of nowhere. You can not move on to the next mare because you can not put the idia into the palace. Obviously, the only conclusion that can be drawn is that Ben is haunting my game.
