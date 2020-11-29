@@ -53,8 +53,48 @@ This bit appears to be consistent across all instances of an item and quite a fe
 
 #### Catagories
 
-03
-  owl
+03 </br>
+- owl
+
+04 </br>
+- gate </br>
+- wind </br>
+- dash </br>
+
+05 </br>
+- tree1 </br>
+- windv </br>
+- npian </br>
+- cpian </br>
+- sheep </br>
+- signb </br>
+- hunch </br>
+
+06 </br>
+- single </br>
+- tree1v </br>
+- regate </br>
+- sonata </br>
+- npiand </br>
+- kpian </br>
+- dummy </br>
+
+07 </br>
+- mandara </br>
+- dummy45 </br>
+- bigitem </br>
+
+08 </br>
+- pao_kira </br>
+- gasagasa </br>
+
+0A </br>
+- background </br>
+- anal </br>
+
+0C </br>
+- windv_delete </br>
+
 
 # Enemy Normal
 
