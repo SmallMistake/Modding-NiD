@@ -10,4 +10,12 @@ Putting boss two's code into boss three shows this fact off best.
 
 ![Boss 4 with Boss2's segment](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/segment3Edited.png)
 
-You will notice that the mice do not go all the way around. Once a mouse, Nights, or even the boss goes past the teleport point they loop back around on the other side.
+You will notice that the mice do not go all the way around. Once a mouse, Nights, or even the boss goes past the teleport point they loop back around on the other side. Furthermore, you will notice that track has been moved outside of the arena.
+
+Putting this same code into any boss produces the same results.
+
+Level one has a slightly different reaction.
+
+![Level 1 with Boss2's Segment](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/levelOneTP.png)
+
+![Level 1 TP Point](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/levelOneTPPoint.png)
