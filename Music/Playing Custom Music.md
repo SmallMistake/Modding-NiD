@@ -10,7 +10,7 @@ You can then change the output file name to match the name of the file you would
 
 ![songList](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Music/Pictures/audioLocation.PNG)
 
-For example, if you want it to play at the start of one stage you would change it to "alp_1int.adx."
+For example, if you want it to play at the start of stage 1 you would change it to "alp_1int.adx."
 
 This will cause the custom track to play instead of the intro track that plays while you walk to the palace. 
 
