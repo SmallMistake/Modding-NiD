@@ -42,6 +42,12 @@ Deleting these will cause the menus to have no music
 
 Deleting a characters file like "nights.adx" does not seem to stop the corrosponding sound effects from playing.
 
+# Playing ADX files/ Music
+
+I have successfully been able to play all the adx files using an ADX player made for SA DX. 
+
+![ADX Player](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Music/Pictures/ADX_Player.PNG)
+
 # Massive Thing to Look Into Later 
 
 ".sfd" files reference using a "SofdecStream" to play audio. 
