@@ -7,9 +7,11 @@ You can slightly edit the title by deleting portions of the title screen. You wi
 
 ### Title Screen Edits
 
+#### Blank Title Screen
+
 Location:
 
-cse/EN/COMM/NIGHTS_title_christmas_PJ/Root/nights_title_bg.csa
+cse/EN/COMM/NIGHTS_title_christmas_PJ/Root/title/nights_title_bg.csa
 
 Code:
 
@@ -22,3 +24,12 @@ Effect:
 
 ![Blank Background](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/UI%20Backgrounds/pictures/missingBG.jpg)
 
+#### No More Sparkles Coming from Name
+
+Location:
+
+cse/EN/COMM/NIGHTS_title_christmas_PJ/Root/title/nights_title_text.csa
+
+![No Sparkles Code](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/UI%20Backgrounds/pictures/sparklesCode.PNG)
+
+#### 
