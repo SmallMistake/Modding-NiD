@@ -1,4 +1,4 @@
-# How to basic
+# How to Basic
 
 Using the AdxEncoder.exe bundled with the Adx Player found here:
 
