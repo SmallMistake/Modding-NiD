@@ -2,7 +2,7 @@
 
 Route Group Segments will follow groups of route data. They all start with a 0B 00 00 00 btye to help denote them.
 
-Empty Route Group from a boss level with only this route.
+Empty Route Group from a boss level because there is only one group only one route.
 
 ![Empty Route Group](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeGroup.PNG)
 
