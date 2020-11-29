@@ -4,7 +4,7 @@
 
 The afs folder hold most of the music ques for the game.
 
-I believe I have found that files with end with ".csb" control the use of audio, and files that end with adx are the audio sources.
+I believe I have found that files with end with ".sfd" control the audio, ".csb" reference the audio used by a level, and files that end with ".adx" are the audio sources.
 
 ### Stages
 
@@ -37,3 +37,8 @@ You can also have specifc mares with no music by removing those adx files specif
 adx files that start with cdda control the menus music.
 
 Deleting these will cause the menus to have no music
+
+### Characters
+
+Deleting a characters file like "nights.adx" does not seem to stop the corrosponding sound effects from playing.
+
