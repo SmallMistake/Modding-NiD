@@ -1,6 +1,6 @@
 # Route Group
 
-Route Group Segments will follow groups of route data. They all start with a 0B 00 00 00 btye to help denote them.
+Route Group Segments will follow groups of route data. They all start with a 0B 00 00 00 byte to help denote them.
 
 Empty Route Group from a boss level because there is only one group only one route.
 
