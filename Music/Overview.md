@@ -27,4 +27,5 @@ Final Level
 
 ### Playing with no Music
 
-If you want to play any level with no music remove the co
+If you want to play any level with no music remove the corrosponding adx files.
+You can also have specifc mares with no music by removing those adx files specifically.
