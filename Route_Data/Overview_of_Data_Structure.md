@@ -6,4 +6,4 @@ The file stage_4_boss_SDF.bin is the easiest one to use for analyzing route data
 All routes are defined by:
 
 Headers that look like a varient of below.
-![Route Header](https://github.com/SmallMistake/Modding-NiD/blob/main/Route_Data/pictures/routeHeader.png)
+![Route Header](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeHeader.PNG)
