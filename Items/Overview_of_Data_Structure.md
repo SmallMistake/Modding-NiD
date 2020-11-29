@@ -13,12 +13,48 @@ I have identified and been able translate the structure as follows using the bel
 ![Item Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/exampleItemDecomposed.PNG)
 
 ##### Yellow: Header
-##### Red: Incremental bit
+##### Red: Incremental Bit
 ##### Blue: Counter
 ##### Black: Next Item Counter
-##### Lime: ID?
+##### Lime: Item Catagory?
 ##### Fuscia: Item Name
 
+## Header
+
+All items must start with the byte "04 00 00 00" before the word "item" to denote it is an item.
+
+## Incremental Bit
+
+While I can't tell what this does exactly, it appears to be a counter. It appears to be increasing by hex instead of the character you will notice the pattern starts as:
+- 01 .
+- 0A .
+- 64 d
+- 56 e
+- 57 f
+- 58 g
+...
+- 6d m
+- 0B .
+- 6e n
+...
+- 77 w
+- 0C .
+- 78 x
+...
+- 7A z
+- 7B {
+- 7C |
+
+You will notice that every now and then the pattern breaks and increments by 0A -> 0B -> ect. I don't know why it does this.
+
+## Item Catagory
+
+This bit appears to be consistent across all instances of an item and quite a few items share the number. I have compiled a list of most of the items below:
+
+#### Catagories
+
+03
+  owl
 
 # Enemy Normal
 
