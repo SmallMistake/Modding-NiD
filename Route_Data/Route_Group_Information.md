@@ -7,7 +7,7 @@ Empty Route Group from a boss level with only this route.
 ![Empty Route Group](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeGroup.PNG)
 
 
-Insights on filled Route Groups from Stage 1:
+## Insights on filled Route Groups from Stage 1:
 
 ##### Black: Header that denotes route group
 ##### Red: Current Counter
