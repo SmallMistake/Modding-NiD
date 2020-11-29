@@ -1,5 +1,7 @@
 # Route Data
 
+Route data is stored in a collection of route_data containers. They are headed by the byte "0A 00 00 00."
+
 ### Segment 1
 I cant figure out what this one does, becuase interchanging them amoung other routes does not seem to make any difference. For example, you can put boss 2's into stage 1 and nothing will happen or crash.
 
@@ -21,6 +23,8 @@ Stage 2:
 Stage 2 Boss:
 
 ![Stage 2 Boss Segment 2](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/stage_2_boss_segment_2.PNG)
+
+Their is an oddity with a few of these segments that include an extra bit after route_data as seen in stage_2_boss. Zeroing this does not crash the game and their does not seem to be any difference.
 
 
 
