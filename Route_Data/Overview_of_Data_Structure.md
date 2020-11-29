@@ -5,7 +5,15 @@ The file stage_4_boss_SDF.bin is the easiest one to use for analyzing route data
 
 All routes are defined by:
 
-Headers that look like a varient of below.
+## Headers will look like a varient of the below.
 
 ![Route Header](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeHeader.PNG) </br>
 The most tell tale sign that is consistent across files is the two grouping of the four empty spaces appering in that arrangement.
+
+## Route data will appear like below.
+
+![Route Data](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeData.PNG) </br>
+
+## Route group sections will follow every route data section
+
+![Route Group](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeGroup.PNG) </br>
