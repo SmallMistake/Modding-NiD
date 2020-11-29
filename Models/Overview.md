@@ -32,4 +32,4 @@ PNODM_ST03_PIA_GRDPS2.BIN
 TNODM_ST03_PIA_GRDPS2.BIN
 ![Level 3 Something](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/TNODM_ST03_PIA_GRDPS2.PNG)
 
-This is pure guess work, but I feel comfortable these two file types are used together in some version the described way. 
+This is pure guess work, but I feel comfortable stating that these two file types are used together in some version the described way. 
