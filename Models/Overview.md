@@ -12,5 +12,5 @@ DATNIGHTS.BIN
 There are multiple models layered on top of each other. It is easiest to make out NiGHTS hat at the top and left of the image.
 
 DATWIZE.BIN
-!{Wizeman's Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATWIZE.PNG)
+![Wizeman's Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATWIZE.PNG)
 Wizeman's hands are the easiest point of reference because they show up distinctly in the front of everything else.
