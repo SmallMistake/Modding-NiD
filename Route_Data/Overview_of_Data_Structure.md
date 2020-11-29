@@ -8,3 +8,4 @@ All routes are defined by:
 Headers that look like a varient of below.
 
 ![Route Header](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeHeader.PNG)
+The most tell tale sign that is consistent across files is the two grouping of the four empty spaces appering in that arrangement.
