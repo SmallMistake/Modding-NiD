@@ -14,6 +14,7 @@ cse/EN/COMM/NIGHTS_title_christmas_PJ/Root/nights_title_bg.csa
 Code:
 
 Delete all code except the below.
+
 ![Code Blank Background](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/UI%20Backgrounds/pictures/howToRemoveBG.PNG)
 
 
