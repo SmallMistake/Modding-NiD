@@ -114,14 +114,17 @@ The last bit most likely is used to denote an id number of the item. It appears 
 - 56 e
 - 57 f
 - 58 g
+
 ...
 - 6d m
 - 0B .
 - 6e n
+
 ...
 - 77 w
 - 0C .
 - 78 x
+
 ...
 - 7A z
 - 7B {
