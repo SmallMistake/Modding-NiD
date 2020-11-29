@@ -12,6 +12,13 @@ Their is also a corrosponding enemy normal list that follows after the item list
 I have identified and been able translate the structure as follows using the below image.
 ![Item Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/exampleItemDecomposed.PNG)
 
+##### Yellow: Header
+##### Red: Incremental bit
+##### Blue: Counter
+##### Black: Next Item Counter
+##### Lime: ID?
+##### Fuscia: Item Name
+
 
 # Enemy Normal
 
