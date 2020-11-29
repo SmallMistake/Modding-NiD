@@ -2,6 +2,11 @@
 
 Route data is stored in a collection of route_data containers. They are headed by the byte "0A 00 00 00."
 
+I have defined one segment of route data as being everything starting from the header to the empty space before the next header as seen below.
+
+![Segment Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/RouteData.PNG)
+
+
 ### Segment 1
 I cant figure out what this one does, becuase interchanging them amoung other routes does not seem to make any difference. For example, you can put boss 2's into stage 1 and nothing will happen or crash.
 
