@@ -25,6 +25,7 @@ Stage 2 Boss:
 ![Stage 2 Boss Segment 2](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/stage_2_boss_segment_2.PNG)
 
 Ignore the extra highlight; that section goes with the next segment.
+
 Their is an oddity with a few of these segments that include an extra bit after route_data as seen in stage_2_boss. Zeroing this does not crash the game and their does not seem to be any difference.
 
 
