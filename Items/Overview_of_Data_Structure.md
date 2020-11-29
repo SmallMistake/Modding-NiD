@@ -116,9 +116,9 @@ The last bit most likely is used to denote an id number of the item. It appears 
 - 67 g
 
 ...
-- 6d m
+- 6D m
 - 0B .
-- 6e n
+- 6E n
 
 ...
 - 77 w
