@@ -8,6 +8,9 @@ I have found the program Model Researcher to be able to extract the models from 
 Here are some examples:
 
 DATNIGHTS.BIN
-![Nights' Model's Vertexs](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATNIGHTS_BIN.PNG)
+![Nights' Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATNIGHTS_BIN.PNG)
+There are multiple models layered on top of each other. It is easiest to make out NiGHTS hat at the top and left of the image.
 
-DAT
+DATWIZE.BIN
+!{Wizeman's Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATWIZE.PNG)
+Wizeman's hands are the easiest point of reference because they show up distinctly in the front of everything else.
