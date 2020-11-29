@@ -13,7 +13,7 @@ There are multiple models layered on top of each other. It is easiest to make ou
 
 DATWIZE.BIN
 ![Wizeman's Model](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/DATWIZE.PNG)
-Wizeman's hands are the easiest point of reference because they show up distinctly in the front of everything else.
+Wizeman's 6 hands are the easiest point of reference because they show up distinctly in the front of everything else.
 
 
 ### Levels
@@ -31,3 +31,5 @@ PNODM_ST03_PIA_GRDPS2.BIN
 
 TNODM_ST03_PIA_GRDPS2.BIN
 ![Level 3 Something](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Models/pictures/TNODM_ST03_PIA_GRDPS2.PNG)
+
+This is pure guess work, but I feel comfortable these two file types are used together in some version the described way. 
