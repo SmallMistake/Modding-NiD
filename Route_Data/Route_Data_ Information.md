@@ -1,5 +1,30 @@
+# Route Data
 
-# Segment 3
+### Segment 1
+I cant figure out what this one does, becuase interchanging them amoung other routes does not seem to make any difference. For example, you can put boss 2's into stage 1 and nothing will happen or crash.
+
+### Segment 2
+Segment two seems to be used to state whether or not the stage is a boss stage or a normal stage.
+
+Normal Stages are denoted by 01 00 00 00 0A 00 00 00 00.
+
+Boss Stages are denoted by 02 00 00 00 0A 00 00 00
+
+Stage 1:
+
+![Stage 1 Segment 2](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/stage_1_segment_2.PNG)
+
+Stage 2:
+
+![Stage 2 Segment 2](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/stage_2_segment_2.PNG)
+
+Stage 2 Boss:
+
+![Stage 2 Boss Segment 2](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/stage_2_boss_segment_2.PNG)
+
+
+
+### Segment 3
 
 Segment 3 appears to control the location of the track and partially the shape of the track.
 
