@@ -53,7 +53,7 @@ This spot is used to show the current count of the item.
 
 ### Item Catagory?
 
-This bit appears to be consistent across all instances of an item, and quite a few items share their number. I have compiled a list of most of the items below:
+This bit appears to be consistent across all instances of an item, and quite a few items share their number. I have compiled a list of most of the items from stage one below:
 
 #### Catagories
 
