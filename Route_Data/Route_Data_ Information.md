@@ -26,7 +26,7 @@ Stage 2 Boss:
 
 Ignore the extra highlight; that section goes with the next segment.
 
-Their is an oddity with a few of these segments that include an extra bit after route_data as seen in stage_2_boss. Zeroing this does not crash the game and their does not seem to be any difference.
+There is an oddity with a few of these segments that include an extra bit after route_data as seen in stage_2_boss. Zeroing this does not crash the game and their does not seem to be any difference.
 
 
 
@@ -34,7 +34,7 @@ Their is an oddity with a few of these segments that include an extra bit after 
 
 Segment 3 appears to control the location of the track and partially the shape of the track.
 
-This can most be demonstrated by inserting Boss 2's data into other levels' corrosponding parts. If you will remember the opera lady has you going thru a circular level and various rooms.
+This can most be demonstrated by inserting Boss 2's data into other levels' corrosponding parts. If you will remember, the opera lady has you going thru a circular level and various rooms.
 The way this is accomplished is by having the track only cover about 2/3rds of the circle. The player is then teleported to the other side of the track once they reach the end of the other side.
 This ensures that the level can unload parts of the level in such a way so that the player never even knows they are not really going all the way around.
 
