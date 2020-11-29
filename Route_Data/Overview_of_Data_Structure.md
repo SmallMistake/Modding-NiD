@@ -13,9 +13,9 @@ The most tell tale sign that is consistent across files is the two grouping of t
 ## Route data will appear like below.
 
 ![Route Data](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeData.PNG) </br>
-You will notice that all route data instances must be started with a 0A 00 00 00 byte.
+You will notice that all route data instances must be started with a 0A 00 00 00 byte before the "route_data" declaration.
 
 ## Route group sections will follow every route data section
 
 ![Route Group](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeGroup.PNG) </br>
-Route Groups are denoted with a 0B 00 00 00 byte.
+Route Groups are denoted with a 0B 00 00 00 byte before "route_group."
