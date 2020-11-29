@@ -42,7 +42,7 @@ Deleting these will cause the menus to have no music
 
 Deleting a characters file like "nights.adx" does not seem to stop the corrosponding sound effects from playing.
 
-# Massive Thing to Look into Later 
+# Massive Thing to Look Into Later 
 
 ".sfd" files reference using a "SofdecStream" to play audio. 
 
