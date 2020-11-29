@@ -13,6 +13,7 @@ The most tell tale sign that is consistent across files is the two grouping of t
 ## Route data will appear like below.
 
 ![Route Data](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Route_Data/pictures/routeData.PNG) </br>
+You will notice that all route data instances must be started with a 
 
 ## Route group sections will follow every route data section
 
