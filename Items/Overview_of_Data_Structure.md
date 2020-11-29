@@ -10,7 +10,7 @@ Their is also a corrosponding enemy normal list that follows after the item list
 ## Data Structure
 
 I have identified and been able translate the structure as follows using the below image.
-![Item Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/itemExample_LI.PNG)
+![Item Example](https://raw.githubusercontent.com/SmallMistake/Modding-NiD/main/Items/pictures/itemExample_LI.jpg)
 
 ##### Yellow: Header
 ##### Red: Incremental Bit
